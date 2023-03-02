@@ -35,13 +35,19 @@
 - title: MakeMyTrip 
   title-url: https://www.makemytrip.com/
   date: Jun 2019 - Aug 2021
-  subtitle: Software Developer
+  subtitle: Senior Software Developer
   tags:
     - tag: Python
     - tag: Java
     - tag: Django
     - tag: Flask
   timeline-side: right
+
+- title: Delhi Technological University
+  title-url: http://dtu.ac.in/
+  date: 2015 - 2019
+  subtitle: B.Tech in Mathematics and Computing
+  timeline-side: left
 
 - title: DRDO
   title-url: https://www.drdo.gov.in/
@@ -57,4 +63,6 @@
   title-url: https://www.oddvega.com/course/ai-and-machine-learning/an-introduction-to-genetic-algorithm/
   date: Dec 2017 - Jan 2018
   subtitle: Fellowship
-  timeline-side: left
+  timeline-side: right
+
+

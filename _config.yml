@@ -21,9 +21,10 @@ email: prvns1997@gmail.com
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
 github_username: prvnsingh
-codepen_username: exampleUser
-dev_username: exampleUser
-linkedin_username: in/prvns
+# codepen_username: exampleUser
+kaggle_username: singhpraveen
+hackerrank_username: prvns1997/hackos
+linkedin_username: prvns
 twitter_username: prvns97
 
 # ABOUT ME SECTION
@@ -35,6 +36,18 @@ show_aboutme_card: true
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
 about_me_description: I am a machine-learning enthusiast who enjoys problem-solving and building machine-learning pipelines. I am responsible for designing and implementing algorithms and models, selecting appropriate datasets, and optimizing models for performance. My experience includes training and fine-tuning deep learning models like YOLOv5 for a  computer vision pipeline on cloud-based platforms like AWS. I collaborate with cross-functional teams to integrate models into production systems and provide ongoing maintenance and support. I am passionate about leveraging the latest technologies and tools to build scalable and efficient machine-learning pipelines that can solve complex business problems.
+
+show_goals_card: true
+# about_me_title: The will be displayed as the title in the About Me section
+goals_title: Current goal
+# about_me_description: This will be displayed under the title.
+goals_description: I am a current master's student in Applied Computer Science at Concordia University in Montreal and will be graduating in April 2023. I am eager to leverage my skills and experience as a Machine Learning Engineer full-time starting May 1st, 2023.
+
+show_characteristics: true
+# about_me_title: The will be displayed as the title in the About Me section
+characteristics_title: Characteristics
+# about_me_description: This will be displayed under the title.
+characteristics_description: I have been recognized as a quick learner and a highly helpful team member, always willing to lend a hand to others. Through my collaborative and communicative approach, I have built strong relationships with team members and stakeholders, contributing to the success of various projects.
 
 # SKILLS SECTION
 # show_skills_card:
@@ -53,7 +66,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://drive.google.com/file/d/1YE0JF4cWbwVZPfTmrVahV0YQI9uMvRJY/view?usp=share_link
+cv_download_link: https://drive.google.com/file/d/1wv8FyZUllGW-fWO4FNik4zkMKoodi7Vk/view?usp=share_link
 
 # PROJECTS SECTION
 # show_projects_card:
@@ -81,7 +94,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
+contact_description: Feel free to drop a message.
 
 # GITHUB-METADATA
 # Set this to your forked repository

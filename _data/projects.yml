@@ -13,21 +13,28 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Video Summarizer
+  descr: I Implemented the Detect-to-Summarize network (DSNet), the state-of-art framework for supervised video summarization using anchor-based and anchor-free approaches in PyTorch.
+  demo: https://github.com/prvnsingh/VideoSummarization_DSNet
   tags:
-    - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
-    - tag: Node
-
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
-  tags:
+    - tag: Pytorch
     - tag: Python
-    - tag: Django
 
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+- name: Sentiment Analysis
+  descr: I customized the performance of a pre-existing Distilbert model on a tailored dataset for the purpose of sentiment analysis. My implementation integrated the use of FAST API and hugging face libraries, including transformers and pipeline, in PyTorch
+  demo: https://github.com/prvnsingh/SentimentAnalysis
+
+- name: Deep learning in Drug discovery
+  descr: Researched and studied algorithms used in drug target prediction. Conducted a literature review of state-of-art algorithm DTI-CNN algorithm used for drug discovery.
+  demo: https://drive.google.com/file/d/1qeDQhh5zvNks9a5eaW9oPr9nKqBfLOWS/view
+
+- name: Far Distant Object Detection
+  descr: I developed an innovative method for detecting people standing at a distance for intelligent railway system surveillance. I employed modified Hough transformation algorithms to detect railway tracks, utilized HSV segmentation to remove noise from images, and incorporated the modified Faster RCNN method with the appropriate anchor size at the RCNN pipeline. Furthermore, I implemented an upsampling technique to magnify the image at the RPN funnel of RCNN to ensure that it is processed in subsequent layers of the network.
+  demo: https://github.com/prvnsingh/ObjectDetectionResearchPaper
+  tags:
+    - tag: TensorFlow
+    - tag: Python
+
+- name: Human Activity Recognition - HAR
+  descr: I conducted a classification task on five different types of exercises using the Weightlifting Exercises Database. The process involved analyzing features, imputing missing values, modeling with Random Forest, and reducing prediction error, resulting in a high-performing model with an out-of-sample error of only 0.00118
+  demo: https://github.com/prvnsingh/datasciencecoursera/blob/master/Practical%20Machine%20Learning/Peer%20Assignment.Rmd
