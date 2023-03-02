@@ -5,22 +5,22 @@
 # - name: Framework
 #   weight: 5
 
-- name: Angular
+- name: Pytorch
   weight: 5
 
-- name: AngularJS
+- name: DataBricks
   weight: 3
 
-- name: React
+- name: Django
   weight: 4
 
-- name: Node
+- name: Flask
   weight: 1
 
-- name: Flutter
+- name: Springboot
   weight: 2
 
-- name: Express
+- name: GraphQL
   weight: 3
 
 - name: Django

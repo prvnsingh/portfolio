@@ -17,45 +17,44 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
-  tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
-  timeline-side: right
-
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
-  tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
+- title: Concordia University
+  title-url: https://www.concordia.ca/
+  date: 2021 - 2023
   subtitle: M.Sc. Computer Science
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+- title: Sponsorlytix
+  title-url: https://sponsorlytix.io/
+  date: Mar 2022 - Aug 2022
+  subtitle: Machine Learning Engineer
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: Pytorch
+    - tag: Roboflow
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: MakeMyTrip 
+  title-url: https://www.makemytrip.com/
+  date: Jun 2019 - Aug 2021
+  subtitle: Software Developer
+  tags:
+    - tag: Python
+    - tag: Java
+    - tag: Django
+    - tag: Flask
+  timeline-side: right
+
+- title: DRDO
+  title-url: https://www.drdo.gov.in/
+  date: June 2018 - July 2018
+  subtitle: Research Intern
+  tags:
+    - tag: Object Detection
+    - tag: TensorFLow
+    - tag: Python
+  timeline-side: right
+
+- title: Risk Latte Americas Inc
+  title-url: https://www.oddvega.com/course/ai-and-machine-learning/an-introduction-to-genetic-algorithm/
+  date: Dec 2017 - Jan 2018
+  subtitle: Fellowship
   timeline-side: left
