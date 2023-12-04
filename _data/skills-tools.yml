@@ -37,3 +37,43 @@
 
 - name: GCP
   weight: 4
+
+
+- name: MLflow
+  weight: 5
+
+- name: Keras
+  weight: 3
+
+- name: scikit-learn
+  weight: 5
+
+- name: numpy
+  weight: 6
+
+- name: pandas
+  weight: 5
+
+- name: Langchain
+  weight: 4
+
+- name: LLMs
+  weight: 3
+
+- name: MongoDB
+  weight: 4
+
+- name: neo4j
+  weight: 4
+
+- name: Kafka
+  weight: 4
+
+- name: RabbitMQ
+  weight: 2
+
+- name: Kubernetes
+  weight: 2
+
+
+

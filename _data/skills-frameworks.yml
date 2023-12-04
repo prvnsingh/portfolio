@@ -29,5 +29,5 @@
 - name: Spring
   weight: 2
 
-- name: Rails
+- name: FastAPI
   weight: 4

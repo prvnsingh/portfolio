@@ -11,6 +11,9 @@
 - name: Java
   weight: 4
 
+- name: SQL
+  weight: 4
+
 - name: C++
   weight: 2
 

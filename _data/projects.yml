@@ -12,6 +12,18 @@
 #     - tag: Express
 #     - tag: AngularJS
 #     - tag: Node
+- name: LLM-WebToGraph
+  descr: LLM-WebToGraph is a powerful project that harnesses the capabilities of Langchain and OpenAI's Language Models (LLMs) to scrape data from various sources on the web, transforming it into a structured knowledge graph. This knowledge graph is then populated into a Neo4j Aura Database, providing an efficient way to store, query, and retrieve information using cypher query and LLMs. With the synergy of Langchain, OpenAI LLMs, and Neo4j, this project offers a robust solution for knowledge management and retrieval.
+  demo: https://github.com/prvnsingh/LLM-WebToGraph
+  tags:
+    - tag: Python
+    - tag: LLMs
+    - tag: HuggingFace
+    - tag: Langchain
+    - tag: langsmith
+    - tag: FASTAPI
+    - tag: streamlit
+    - tag: Docker
 
 - name: Video Summarizer
   descr: I Implemented the Detect-to-Summarize network (DSNet), the state-of-art framework for supervised video summarization using anchor-based and anchor-free approaches in PyTorch.
@@ -19,6 +31,14 @@
   tags:
     - tag: Pytorch
     - tag: Python
+
+- name: Plant Disease Recognition
+  descr: Engineered an automated plant disease classification system employing advanced algorithms, including MobileNet, ShuffleNet, and Resnet18 using the PyTorch for modeling and W&B (Weights & Biases) for hyperparameter tuning, optimizing accuracy rate from 92.64% to 99.19% across diverse datasets.
+  demo: https://github.com/prvnsingh/PlantDiseaseRecongnition
+  tags:
+    - tag: Pytorch
+    - tag: Python
+    - tag: Weights & Biases
 
 - name: Sentiment Analysis
   descr: I customized the performance of a pre-existing Distilbert model on a tailored dataset for the purpose of sentiment analysis. My implementation integrated the use of FAST API and hugging face libraries, including transformers and pipeline, in PyTorch
